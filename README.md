@@ -41,3 +41,16 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/31d992ba-4806-450d-bb1c-20d74aeab53f" />
 
 - [Barra de Vida](https://drive.google.com/file/d/1vxTfHwMRLzcm41Y02FyRNfiC_1XJIokg/view?usp=sharing)
+
+##  Sonido y Efectos
+
+## Video de Demostración
+- [Sonido y Efectos](https://drive.google.com/file/d/1_78fIBiq3g6nkr_8wYyrADQLI1Va00Oz/view?usp=sharing)
+
+## Documentación del Proyecto
+- [Sonido y Efectos](https://drive.google.com/file/d/1QRAeigp1bgH6TWiexZWG8LyRPpKu9B-3/view?usp=sharing)  
+
+## Package  
+![Imagen de WhatsApp 2025-10-24 a las 09 05 43_fb928f3c](https://github.com/user-attachments/assets/b40be842-557f-49aa-9e7c-f7c9d1c39daa)
+
+- [Sonido y Efectos](https://drive.google.com/file/d/1xkQ4Oq6zw1TJhPFCt8qEANeVVZoBW2C7/view?usp=sharing)
