@@ -13,6 +13,7 @@
 1. Ejercicios prácticos
    [Crear un Menú Basico con Unity]
    [Barra de Vida]
+   [Multijugador]
 3. Tutoriales 
    [Sonido y Efectos]
 ---
@@ -54,3 +55,16 @@
 ![Imagen de WhatsApp 2025-10-24 a las 09 05 43_fb928f3c](https://github.com/user-attachments/assets/b40be842-557f-49aa-9e7c-f7c9d1c39daa)
 
 - [Sonido y Efectos](https://drive.google.com/file/d/1xkQ4Oq6zw1TJhPFCt8qEANeVVZoBW2C7/view?usp=sharing)
+
+##  Multijugador
+
+## Video de Demostración
+- [Multijugador](https://drive.google.com/file/d/1h158_lXiR2XfozaR65MK6jUamUw7oaeo/view?usp=sharing)
+
+## Documentación del Proyecto
+- [Multijugador](https://drive.google.com/file/d/1Bsd-S2UPA8axaenT3uDpxqf3yjajf0IW/view?usp=sharing)  
+
+## Package  
+![Imagen de WhatsApp 2025-10-27 a las 11 34 32_ee6ce1cb](https://github.com/user-attachments/assets/b75061b6-57b9-4d08-8af8-f099432a2a1b)
+
+- [Multijugador](https://drive.google.com/file/d/1bDwaIn9yTQeDoimPiZ2uZ45ExSGfPXOB/view?usp=drive_link)
