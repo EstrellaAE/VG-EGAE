@@ -79,5 +79,6 @@
 - [Seleccion de jugador](https://drive.google.com/file/d/1EB3UybTKL-BJHc11zHJvdTyFQcyeILGb/view?usp=sharing)  
 
 ## Package  
+![Imagen de WhatsApp 2025-11-09 a las 14 45 34_88d56c8a](https://github.com/user-attachments/assets/a321217e-6247-4b51-aadf-6249bcaf3724)
 
 - [Seleccion de jugador](https://drive.google.com/file/d/1tyT7YneXABax6vQJwop-AyjLmeWQjUV2/view?usp=sharing)
