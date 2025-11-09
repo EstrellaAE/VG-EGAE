@@ -14,6 +14,7 @@
    [Crear un Menú Basico con Unity]
    [Barra de Vida]
    [Multijugador]
+   [Seleccion de jugador]
 3. Tutoriales 
    [Sonido y Efectos]
 ---
@@ -68,3 +69,15 @@
 ![Imagen de WhatsApp 2025-10-27 a las 11 34 32_ee6ce1cb](https://github.com/user-attachments/assets/b75061b6-57b9-4d08-8af8-f099432a2a1b)
 
 - [Multijugador](https://drive.google.com/file/d/1bDwaIn9yTQeDoimPiZ2uZ45ExSGfPXOB/view?usp=drive_link)
+
+##  Seleccion de jugador
+
+## Video de Demostración
+- [Seleccion de jugador](https://drive.google.com/file/d/1UmP69F7Zgy3V_aD1awtBRpNJ7nxh3dp1/view?usp=sharing)
+
+## Documentación del Proyecto
+- [Seleccion de jugador](https://drive.google.com/file/d/1EB3UybTKL-BJHc11zHJvdTyFQcyeILGb/view?usp=sharing)  
+
+## Package  
+
+- [Seleccion de jugador](https://drive.google.com/file/d/1tyT7YneXABax6vQJwop-AyjLmeWQjUV2/view?usp=sharing)
